@@ -4,3 +4,17 @@ body{
 h1{
     font-size: 50px;
 }
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+    
+}
